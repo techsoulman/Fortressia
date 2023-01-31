@@ -1,1 +1,1 @@
-Command the forces of the North Pole and save Christmas... or declare war on Christmas and cancel it forever! A Yuletide-themed mod for UnCiv
+Work in progress, a nation that specialises in fortifications! A mod for UnCiv.
